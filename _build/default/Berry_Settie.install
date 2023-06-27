@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/Berry_Settie/META"
+  "_build/install/default/lib/Berry_Settie/dune-package"
+  "_build/install/default/lib/Berry_Settie/opam"
+]
+bin: [
+  "_build/install/default/bin/Berry_Settie"
+]

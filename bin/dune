@@ -1,0 +1,4 @@
+(executable
+ (public_name Berry_Settie)
+ (name main)
+ (libraries lib))
